@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationByFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="foodator">Foodator</string>
+    <string name="food_delivery_app">Food Delivery App</string>
+    <string name="get_started">Get Started</string>
+    <string name="hi_hamza">Hi Hamza</string>
+    <string name="order_eat"><![CDATA[Order & Eat]]></string>
+    <string name="find_your_food">Find Your Food</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="order_now">Order Now</string>
+    <string name="popular">Popular</string>
+</resources>
